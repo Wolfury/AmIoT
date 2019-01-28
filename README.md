@@ -13,27 +13,48 @@ AM-IoT可视化开发平台可以与JavaScript和Node.js、C语言混合开发�
 ![](https://raw.githubusercontent.com/qq50520271/AmIoT/master/img/ui.png)
 # 核心功能说明
 **通用协议：**
+
 Modbus RTU 串口
+
 Modbus TCP 网口
+
 **PLC协议：**
 OpcUa
+
 西门子S7
+
 三菱Fx-Serial 
+
 三菱MC
+
 欧姆龙HostLink 
+
 欧姆龙FinS
+
 霍尼韦尔Logix 
+
 松下Mewtocol 
+
 **水电表仪器：**
+
 DLT645-1997
+
 DLT645-2007 
+
 CJ/T188-2004
+
 **支持数据库：**
+
 Mysql
+
 Oracle
+
 SQL Server
+
 MongoDB
+
 influxdb
+
 
 # 常见问题
 **问：软件是否可以运行在LINUX下**
