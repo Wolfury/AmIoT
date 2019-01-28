@@ -13,11 +13,17 @@ AM-IoT可视化开发平台可以与JavaScript和Node.js、C语言混合开发�
 # 常见问题
 **问：软件是否可以运行在LINUX下**
 答：我们软件支持跨平台可以WINDOWS、LINUX下运行，并且我们也提供与硬件集成的盒子网关产品。
+
 **问：如何获得软件**
+
 答：点击我免费下载使用
 **问：免费与收费版本有什么区别**
+
 答：免费版本基本可以满足使用需求，具体版本区别，请点击我
 **问：遇到问题怎么办？**
+
 答：论坛提问交流：http://bbs.gkiiot.com
 微信联系我
+![](https://raw.githubusercontent.com/qq50520271/AmIoT/master/img/weixin.jpg)
+
 
