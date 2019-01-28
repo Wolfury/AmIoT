@@ -70,7 +70,7 @@ influxdb
 
 **问：如何获得软件**
 
-答：[点击我免费下载使用](https://github.com/qq50520271/AmIoT/releases/download/1.0.3/Setup_x64_free_1.0.3.exe "点击我免费下载使用")
+答：[点击我免费下载使用](https://github.com/qq50520271/AmIoT/releases "点击我免费下载使用")
 
 **问：免费与收费版本有什么区别**
 
